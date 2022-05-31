@@ -1,6 +1,6 @@
 # Do you need to look for a specific string in a text file?
-#use-cases: if you're looking for a malware hash signature, bad IP, scanner activity, transaction, specific file, path, etc.,
-#create a text file name test with some lines, we're looking for "security" string in the text file.
+# Use-cases: if you're looking for a malware hash signature, bad IP, scanner activity, transaction, specific file, path, etc.,
+# Create a text file name test with some lines, we're looking for "security" string in the text file.
 string1 = 'security'
 file="test.txt"
 # opening the test file
