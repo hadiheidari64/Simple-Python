@@ -5,7 +5,7 @@
 # -lxml
 # -Selenium
 # lets use requests
-# if you do not have the pyfiglet module installed remove it from the code
+# if you do not have the pyfiglet module installed remove it from the code, it is used for showing up the banner, nice to have it BTW
 # if you need pyfiglet installed copy this command in cmd line: #pip install pyfiglet
 import pyfiglet
 import requests
