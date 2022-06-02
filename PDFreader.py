@@ -1,7 +1,12 @@
-# first, make sure PyPDF2 module is intalled > cmd line: #pip3 install PyPDF2
-# create a pdf file(replace it with pypdf) and put it in the same path of your .py file
-# so what this script does, opens the pdf, then reads the pdf using PyPDF2 and anything after that will be most similar to a text file reading
-# you can remove pyfiglet module and it is related codes(only used for banner)
+"""
+HelloWorld
+- first, make sure PyPDF2 module is installed > cmd line: #pip3 install PyPDF2
+- create a pdf file and put it in the same path of your .py file
+- so what this script does, opens the pdf, then reads the pdf using PyPDF2 and anything after that will be most similar 
+to a text file reading
+- you can remove pyfiglet module, and it is related codes(only used for banner)
+
+"""
 # importing required modules
 import PyPDF2
 import pyfiglet
