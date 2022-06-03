@@ -1,9 +1,11 @@
+"""
 ###Log Sample
-###2022-10-26 10:26:44 | https://myweb.com/home | SUCCESS | Hello Everyone
-###2022-10-26 10:26:54 | https://myweb.com/about | SUCCESS | we are going to parse a log
-###2022-10-26 10:27:01 | https://myweb.com/page | ERROR | what do we want to know?
-###2022-10-26 10:27:03 | https://myweb.com/user/me | SUCCESS | lets get it started
-###2022-10-26 10:27:04 | https://myweb.com/settings/ | ERROR | Done!
+2022-10-26 10:26:44 | https://myweb.com/home | SUCCESS | Hello Everyone
+2022-10-26 10:26:54 | https://myweb.com/about | SUCCESS | we are going to parse a log
+2022-10-26 10:27:01 | https://myweb.com/page | ERROR | what do we want to know?
+2022-10-26 10:27:03 | https://myweb.com/user/me | SUCCESS | lets get it started
+2022-10-26 10:27:04 | https://myweb.com/settings/ | ERROR | Done!
+"""
 
 
 import json
